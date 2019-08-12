@@ -6,7 +6,7 @@ It can be used both as a command line utility and a library.
 
 ![Vegeta](http://fc09.deviantart.net/fs49/i/2009/198/c/c/ssj2_vegeta_by_trunks24.jpg)
 
-## Install
+## Installation
 
 ### Pre-compiled executables
 
